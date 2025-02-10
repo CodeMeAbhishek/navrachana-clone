@@ -273,6 +273,10 @@ form {
     padding: 2em;
 }
 
+.form-contents h2{
+    text-align: center;
+    margin-bottom: 0.5em;
+}
 
 label {
     font-weight: bold;
